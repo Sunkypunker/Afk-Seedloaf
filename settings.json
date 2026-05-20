@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "multiplanz.seedloaf.gg",
-    "port": 25565,
+    "port": ,
     "version": "",
     "try-creative": false
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
