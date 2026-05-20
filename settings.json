@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "IDLEGOOGOO",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "IGOOGAA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "multiplanz.seedloaf.gg",
+    "port": 25565,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
